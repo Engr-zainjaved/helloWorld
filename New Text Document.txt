@@ -1,2 +1,1 @@
-new changes, hello world,
-djfkaj
+The latest changes to the Hello World code
